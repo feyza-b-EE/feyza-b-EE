@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/74/3f/6b/743f6b9f4f3245059e6b7e799b18f74c.gif" width="600" alt="Hello World GIF">
+  <img src="https://drive.google.com/uc?export=view&id=1_SqlpVU7DScW3YS_xUhot6aoOXo2Nc_R" width="600" alt="Hello World GIF">
 </p>
 
-<h1 align="center">👋 Hi, I’m Feyza!</h1> 
+<h1 align="center">Hi, I’m Feyza!</h1> 
 
 🎓 *Electronics Engineering Student* at *Gebze Technical University*  
 👀 Part of the *Software Team* in the *Kıray Air Defense Team*  
