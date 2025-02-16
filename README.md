@@ -1,4 +1,8 @@
-# 👋 Hi, I’m Feyza!  
+<p align="center">
+  <img src="https://i.pinimg.com/originals/74/3f/6b/743f6b9f4f3245059e6b7e799b18f74c.gif" width="600" alt="Hello World GIF">
+</p>
+
+<h1 align="center">👋 Hi, I’m Feyza!</h1> 
 
 🎓 *Electronics Engineering Student* at *Gebze Technical University*  
 👀 Part of the *Software Team* in the *Kıray Air Defense Team*  
@@ -28,7 +32,7 @@
 - *Turkish* – Native 
 - *English* – Professional Working Proficiency
 
-### 📫 Connect with me  
+<h3 align="center">Connect with me</h3> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayse-feyza-birer/">
