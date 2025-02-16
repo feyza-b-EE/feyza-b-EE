@@ -29,5 +29,12 @@
 - *English* – Professional Working Proficiency
 
 ### 📫 Connect with me  
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:feyzabirer@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayse-feyza-birer/)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayse-feyza-birer/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:feyzabirer@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+  </a>
+</p>
