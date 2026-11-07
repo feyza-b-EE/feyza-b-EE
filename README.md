@@ -34,7 +34,7 @@ Analog/RF & digital IC design · VLSI · Embedded systems</p>
 - **8-Bit ALU Design and Layout:** RTL to transistor-level design with full-custom layout, DRC/LVS and post-layout verification
 - **Standard-Cell Library in 90 nm CMOS:** inverter, NAND, NOR, XOR/XNOR and MUX cells meeting delay specs after layout
 - **Transistor-Level LM741 Op-Amp:** built in LTspice and verified against the manufacturer datasheet
-- **EMI Filter Design for a DC Power Input:** internship project using LTspice and KiCad
+- **EMI Filter Design for a DC Power Input:** design project using LTspice and KiCad
 
 👉 Details and figures: **[feyza-b-ee.github.io](https://feyza-b-ee.github.io)**
 
