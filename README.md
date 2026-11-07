@@ -1,12 +1,5 @@
-[README_staj-bitti.md](https://github.com/user-attachments/files/34526235/README_staj-bitti.md)
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1_SqlpVU7DScW3YS_xUhot6aoOXo2Nc_R" width="600" alt="Hello World GIF">
-</p>
-[Uploading README_staj-bitti.md…]()
 
-<h2 align="center">Hi, I'm Feyza 👋</h2>
-<p align="center"><b>Electronics Engineering student at <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id<p align="center">
+<p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1_SqlpVU7DScW3YS_xUhot6aoOXo2Nc_R" width="600" alt="Hello World GIF">
 </p>
 
